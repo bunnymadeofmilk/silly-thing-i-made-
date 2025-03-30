@@ -1,2 +1,2 @@
 # silly-thing-i-made-
-:3
+just run the code in python and answer the questions :3
